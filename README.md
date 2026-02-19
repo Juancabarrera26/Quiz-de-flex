@@ -1,4 +1,4 @@
-# Quiz de flex – Validación de Números Complejos con Flex
+ # Quiz de flex – Validación de Números Complejos con Flex
 
 ---
 
@@ -59,6 +59,9 @@ gcc -o quiz quiz.c -lfl
 ```
 ./quiz archivo.txt
 ```
+
+<img width="344" height="275" alt="Captura de pantalla 2026-02-19 091809" src="https://github.com/user-attachments/assets/78f74ed1-5d9e-4f3e-9224-a63a7d6297f5" />
+
 
 ## Casos de Prueba
 
