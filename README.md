@@ -1,4 +1,4 @@
-# Quiz Lex – Validación de Números Complejos con Flex
+# Quiz de flex – Validación de Números Complejos con Flex
 
 ---
 
