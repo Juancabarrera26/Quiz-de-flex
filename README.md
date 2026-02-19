@@ -104,7 +104,10 @@ Salida esperada:
 ```
 ACEPTA
 ```
-Caso 3 – Entrada inválida
+
+<img width="276" height="202" alt="Captura de pantalla 2026-02-19 113219" src="https://github.com/user-attachments/assets/ca87ccba-64bd-4baf-acc0-66ccd5907271" />
+
+## Caso 3 – Entrada inválida
 
 Creación del archivo:
 
@@ -123,6 +126,9 @@ Salida esperada:
 ```
 NO ACEPTA
 ```
+
+<img width="289" height="162" alt="Captura de pantalla 2026-02-19 113427" src="https://github.com/user-attachments/assets/da310f7a-059e-433d-a1ee-2ff06a22b59b" />
+
 
 ## Conclusión
 
